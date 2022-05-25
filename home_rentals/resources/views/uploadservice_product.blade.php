@@ -31,7 +31,7 @@ section.aboutsecbanner {
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h2>PLACE BID ON PROPERTY OR SELECT THE SERVICE ACTIVATE OR DEACTIVATE VIDEO OF RENTAL PROPERTY</h2>
+                <h2></h2>
             </div>
             
         </div>
