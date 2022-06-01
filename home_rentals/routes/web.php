@@ -54,6 +54,9 @@ Route::get('/serviceform', function () {
     return view('service_form');
 });
 
+Route::get('/uploadproduct', [App\Http\Controllers\StreamController::class, 'uploadproduct']);
+Route::post('/uploadproduct_service', [App\Http\Controllers\StreamController::class, 'uploadproduct_service']);
+
 
 // Product 
 Route::get('/products', [App\Http\Controllers\ProductController::class, 'index'])->name('products');
